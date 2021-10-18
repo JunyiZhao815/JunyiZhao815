@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JunyiZhao815
 - 👀 I’m interested in Data Structure and Algorithm
-- 🌱 I’m currently learning CS61b, the online course in Berkley
+- 🌱 I’m currently learning CS61b, the online course in Berkeley
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
