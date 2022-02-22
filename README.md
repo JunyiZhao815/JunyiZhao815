@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JunyiZhao815
-- 👀 I’m interested in Data Structure and Algorithm
-- 🌱 I’m currently learning CS61b, the online course in Berkeley
+- 👀 I’m a student in WKU(Wenzhou-Kean University)
+- 🌱 I’m Major in Mathematics(Data Analysis track)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
